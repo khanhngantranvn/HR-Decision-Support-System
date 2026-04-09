@@ -64,8 +64,7 @@ A simple web application was developed using **Streamlit** to support HR manager
 1. Download or clone the repository
 
 ```
-git clone https://github.com/yourusername/hr-decision-support-system.git
-cd hr-decision-support-system
+(https://github.com/khanhngantranvn/HR-Decision-Support-System/blob/main/app.py)
 ```
 
 2. Install the required dependencies
@@ -117,7 +116,7 @@ Tools:
 
 Visualization:
 - Power BI
-## Project Structure
+
 ## Project Structure
 
 ```
