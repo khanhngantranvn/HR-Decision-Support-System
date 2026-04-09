@@ -55,6 +55,40 @@ A Streamlit web application allows users to interact with the models. Main funct
 - Budget optimization recommendations
 
 Users can input employee information and receive data-driven decision support in real time.
+## Web Application
+
+A simple web application was developed using **Streamlit** to support HR managers in predicting employee attrition.
+
+### How to Run the Web App
+
+1. Download or clone the repository
+
+```
+git clone https://github.com/yourusername/hr-decision-support-system.git
+cd hr-decision-support-system
+```
+
+2. Install the required dependencies
+
+```
+pip install -r requirements.txt
+```
+
+3. Run the Streamlit application
+
+```
+streamlit run app.py
+```
+
+4. Open the local web interface
+
+After running the command, the application will automatically open in your browser at:
+
+```
+http://localhost:8501
+```
+
+The web interface allows users to input employee information and receive a prediction about the likelihood of employee attrition.
 
 ## Dataset
 
